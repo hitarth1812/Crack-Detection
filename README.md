@@ -95,7 +95,7 @@ The model demonstrates exceptional performance across all metrics:
 ##  Authors
 
 **Hitarth Khatiwala** *Dept. of Artificial Intelligence & Machine Learning* [24aiml019@charusat.edu.in](mailto:24aiml019@charusat.edu.in)
-
+**Krish Singh** *Dept. of Artificial Intelligence & Machine Learning* [24aiml065@charusat.edu.in](mailto:24aiml065@charusat.edu.in)
 ---
 
 
